@@ -1,0 +1,110 @@
+node = Node
+
+language = Language
+
+help = Help
+
+about = About
+
+engleski = English
+
+srpski = Serbian
+
+node.edit = Edit node
+
+node.delete = Delete node
+
+node.search = Search node
+
+node.exit = Exit
+
+about.mnemonic = 65
+
+btn.search = Search cvor
+
+btn.edit = Edit cvor
+
+btn.delete = Delete cvor
+
+kompanija.btnOK = OK
+
+kompanija.name = Company name:
+
+kompanija.city = Company head office:
+
+kompanija.id = Company id:
+
+proizvod.ok = OK
+
+proizvod.name = Product name: 
+
+proizvod.oznaka = Product label:
+
+proizvod.verzija = Product version:
+
+statusbar.kompanija.ime = Company name: 
+
+frame.autor = Author:
+
+frame.language = Language: 
+
+frame.date = Date: 
+
+proizvod.deletelogo = Delete logo
+
+proizvod.uploadlogo = Set logo
+
+parametar.ok = OK
+
+parametar.name = Parameter name:
+
+parametar.value = Parameter value:
+
+kompanijaIzmeni.izmeni = Modify
+
+kompanijaIzmeni.name = Company name:
+
+kompanijaIzmeni.city = Company head office:
+
+kompanijaIzmeni.id = Company id:
+
+jezici.frame.naslov = Choose language
+
+jezici.frame.label = Please choose your language:
+
+jezici.frame.engleski = English
+
+jezici.frame.button = Close
+
+jezici.frame.srpski = Serbian 
+
+jezici.wizard1.odustani = Exit
+
+jezici.wizard1.sledeci = Next
+
+jezici.wizard1.language = Language
+
+jezici.wizard2.previous = Previous
+
+jezici.wizard2.exit = Exit
+
+jezici.wizard2.next = Next
+
+jezici.wizard3.odrediste = Directory
+
+jezici.wizard3.browse = Browse
+
+jezici.wizard4.labelKraj = You are successfully installed program.
+
+jezici.wizard4.kraj = Finish
+
+toolbar.open = Open tree
+
+toolbar.save = Save tree
+
+toolbar.run = Run configurator
+
+
+
+
+
